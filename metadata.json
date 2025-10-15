@@ -1,0 +1,5 @@
+{
+  "name": "Sarwar Voice Studio",
+  "description": "A modern, user-friendly AI platform for Text-to-Audio and Voice Cloning. This application supports both English and Urdu, allowing users to generate high-quality, natural-sounding audio from text and create personal voice clones with consent.",
+  "requestFramePermissions": []
+}
